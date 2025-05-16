@@ -4,4 +4,4 @@
 рисовать можно зажатой левой клавишей мыши, по нажатию правой клавиши рабочее пространство очищается и в консоль выводится предсказание нейросети.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemsadovski&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cathalone&theme=dark&background=000000)](https://git.io/streak-stats)
